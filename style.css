@@ -8,6 +8,7 @@ body {
 	outline: none;
 	box-sizing: border-box;
 }
+
 .board {
 	width: 1200px;
 	margin: 10px auto;
